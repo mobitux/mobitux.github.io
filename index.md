@@ -7,4 +7,4 @@ The young reporter Tintin is the hero of the series "Tintin". Tintin doesn't see
 * decent
 * compassionate
 * kind 
-
+> Ahh! Snowy thinking of getting out, are you?
